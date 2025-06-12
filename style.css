@@ -1,0 +1,32 @@
+.formdetail {
+    padding: 10px;
+    border: 2px solid black;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.centersubmit{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border: 2px solid black ;
+    padding: 5px;
+    border-collapse: collapse;
+    width: 26%;
+}
+
+table tr th{
+    border: 2px solid black;
+    padding: 5px 10px;
+} 
+
+table tr td{
+    border: 2px solid black;
+    padding: 5px 10px;
+} 
+
+
+
